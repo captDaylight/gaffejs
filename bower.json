@@ -1,0 +1,17 @@
+{
+	"name": "gaffejs",
+	"version": "0.0.1",
+	"main": "build/gaffe.js",
+	"dependencies": {
+		"lodash": "*"
+	},
+	"ignore": [
+		"**/.*",
+		"LICENSE"
+	],
+	"keywords": [
+		"gaffe",
+		"gaffejs",
+		"gif"
+	]
+}
